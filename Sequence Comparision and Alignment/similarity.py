@@ -44,6 +44,7 @@ for i in range(len(s)+1):
 Enter 1st Sequence: CGATCGAGCAATCG
 Enter 2nd sequnce: CGATGAGCATCA
 Similiarity score is 6
+Similarity Matrix -
 0	-2	-4	-6	-8	-10	-12	-14	-16	-18	-20	-22	-24	
 -2	1	-1	-3	-5	-7	-9	-11	-13	-15	-17	-19	-21	
 -4	-1	2	0	-2	-4	-6	-8	-10	-12	-14	-16	-18	
