@@ -63,13 +63,16 @@ align(s,t)
 
 '''
 ************Output************
-Enter 1st Sequence: CGACA
-Enter 2nd sequnce: CGCA
-Similiarity score is  2
+Enter 1st Sequence: CGATCGAGCAATCG
+Enter 2nd sequnce: CGATGAGCATCA
+Similiarity score is 6
+Optimal Alignment is as follows-
+CGATCGAGCAATCG
+CGAT_GAGC_ATCA
 
 ***********Scoring************
-CGACA
-CG_CA
-Score is 1+1-2+1+1 = 2
+CGATCGAGCAATCG
+CGAT_GAGC_ATCA
+Score is 1+1+1+1-2+1+1+1+1-2+1+1+1-1 = 6
 '''
 
