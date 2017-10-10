@@ -23,7 +23,7 @@ C G A T _ G A G C _ A T C A
       InDel      InDel
 ```
 
-### optimalAlignment.py
+### globalAlignment.py
 Finding the alignment having maaximum similarity score for the given sequences using the similarity matrix
 by implementation of basic algorithm for Global Comparision.
 
