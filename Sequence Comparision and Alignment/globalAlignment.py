@@ -58,7 +58,7 @@ s = input()
 print("Enter 2nd sequnce:", end=" ")
 t = input()
 print("Similiarity score is",similarity(s,t))
-print("Optimal Alignment is as follows-")
+print("Optimal Global Alignment is as follows-")
 align(s,t)
 
 '''
